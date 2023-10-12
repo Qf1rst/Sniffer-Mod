@@ -1,6 +1,8 @@
 # Sniffer Mod
 (Fabric, 1.20.1)
 
+In this mod, sniffers dig up Torchflower Seeds and Pitcher Pods, as well as OP items and a few custom items.
+
 ## Drops:
 ### Normale Items:
 - Torchflower Seeds (everytime) (1)
