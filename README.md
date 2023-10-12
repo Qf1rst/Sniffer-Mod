@@ -1,4 +1,5 @@
 # Sniffer Mod
+(Fabric, 1.20.1)
 
 ## Drops:
 ### Normale Items:
