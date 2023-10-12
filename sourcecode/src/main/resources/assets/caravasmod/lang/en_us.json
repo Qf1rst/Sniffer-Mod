@@ -1,0 +1,17 @@
+{
+  "itemgroup.caravas": "Caravas Mod",
+  "item.caravasmod.sniffer_shooter": "Sniffer Shooter",
+  "item.caravasmod.ancient_key": "Ancient Key",
+
+  "item.caravasmod.sniffer_boots": "Sniffer Boots",
+  "item.caravasmod.sniffer_leggings": "Sniffer Leggings",
+  "item.caravasmod.sniffer_chestplate": "Sniffer Chestplate",
+  "item.caravasmod.sniffer_helmet": "Sniffer Helmet",
+
+  "block.caravasmod.ancient_box": "Ancient Box",
+
+  "tooltip.caravasmod.sniffer_shooter.tooltip": "Right-click to shoot",
+  "tooltip.caravasmod.ancient_box.tooltip": "Right-click this box with the Ancient Key to open it",
+
+  "text.caravasmod.glowing.text": "Glowing Effect applied!"
+}

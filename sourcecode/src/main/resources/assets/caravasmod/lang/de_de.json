@@ -1,0 +1,18 @@
+{
+  "itemgroup.caravas": "Caravas Mod",
+  "item.caravasmod.sniffer_shooter": "Schnüffler Kanone",
+  "item.caravasmod.ancient_key": "Antiker Schlüssel",
+
+  "item.caravasmod.sniffer_boots": "Schnüfflerstiefel",
+  "item.caravasmod.sniffer_leggings": "Schnüfflerbeinschutz",
+  "item.caravasmod.sniffer_chestplate": "Schnüfflerharnisch",
+  "item.caravasmod.sniffer_helmet": "Schnüfflerhelm",
+
+  "block.caravasmod.ancient_box": "Antike Box",
+
+  "tooltip.caravasmod.sniffer_shooter.tooltip": "Klicke mit der rechten Maustaste, um zu schießen",
+  "tooltip.caravasmod.ancient_box.tooltip": "Rechtsklicke diese Box mit dem Antiken Schlüssel, um sie zu öffnen",
+
+  "text.caravasmod.glowing.text": "Leuchteffekt angewendet!"
+
+}
